@@ -15,5 +15,7 @@ public class ProductCategory {
     private Integer categoryId;
     private Integer categoryType;
     private Date updateDate;
+    /** 类目名字. */
+    private String categoryName;
 
 }
